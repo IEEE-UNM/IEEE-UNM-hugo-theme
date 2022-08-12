@@ -3,19 +3,13 @@
 
 name = "IEEE Website"
 license = "MIT"
-licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
-description = ""
+licenselink = "https://github.com/IEEE-UNM/IEEE-UNM-hugo-theme/blob/master/LICENSE"
+description = "Hugo theme for IEEE UNM website"
 homepage = "http://example.com/"
 tags = []
 features = []
 min_version = "0.41.0"
 
 [author]
-  name = ""
-  homepage = ""
-
-# If porting an existing theme
-[original]
-  name = ""
-  homepage = ""
-  repo = ""
+  name = "IEEE UNM"
+  homepage = "IEEE UNM"
