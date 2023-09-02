@@ -10,6 +10,9 @@ tags = []
 features = []
 min_version = "0.41.0"
 
+[params]
+  mainSections = ["events", "spark-initiative"]
+
 [author]
   name = "IEEE UNM"
   homepage = "IEEE UNM"
